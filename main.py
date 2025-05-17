@@ -1,3 +1,4 @@
+#!/bin/python
 import sys
 keyboard_mapping = {
     '`': 'ё', '~': 'Ё',
